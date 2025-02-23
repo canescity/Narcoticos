@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Q2Zy1kG.png"
+  <img src="![Image](https://github.com/user-attachments/assets/544d7686-d009-402c-b562-39f2ca532620)
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
